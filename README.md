@@ -8,4 +8,4 @@ I completed the required dropbox sign up/sign in process, but I couldn't make th
 
 GIF walkthrough is attached in the file.
 
-![Alt text]https://raw.githubusercontent.com/helenzh/DropboxHW/master/Dropbox-demo.gif
+![Alt text](https://raw.githubusercontent.com/helenzh/DropboxHW/master/Dropbox-demo.gif)
